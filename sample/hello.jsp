@@ -17,7 +17,7 @@ application.
 </tr>
 </table>
 
-<%= new String("Hello !") %>
+<%= new String("Welcome to Jenkins !") %>
 
 </body>
 </html>
