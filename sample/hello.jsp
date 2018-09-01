@@ -17,7 +17,7 @@ application.
 </tr>
 </table>
 
-<%= new String("Devops Testing at home!") %>
+<%= new String("Devops Testing at office!") %>
 
 </body>
 </html>
